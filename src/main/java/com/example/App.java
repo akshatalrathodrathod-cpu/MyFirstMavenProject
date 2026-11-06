@@ -2,6 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello! Jenkins and Maven are working!");
+        System.out.println("Hello! Automatic Jenkins Build is working!");
     }
 }
